@@ -22,11 +22,11 @@ This application was developed as a final project for our **Software Engineering
 ## 👨🏼‍💻 Contributors
 It was really fun to work with these awesome geeks to get the job done:
 
-* [Ramsha Siddiqui](https://github.com/Rmsharks4)
-* [Hassaan Elahi](https://github.com/Hassaan-Elahi)
-* [Mahnoor Kashif](https://github.com/mahnoorkashif)
-* [Shafaq Arshad](https://github.com/Shafaq15)
-* [Marriam Sajid](https://github.com/marriamsajid)
+* (https://github.com/Rmsharks4)
+*(https://github.com/Hassaan-Elahi)
+*(https://github.com/mahnoorkashif)
+* (https://github.com/Shafaq15)
+* (https://github.com/marriamsajid)
 * All members of the Software Engineering class of Spring 2018 :)
 
 ---
