@@ -79,10 +79,6 @@ The login credentials for Admin, Hall and Kitchen Manager's interfaces are:
 All have the password: 123456
 
 
-
-## 🤝 Consulting / Coaching
-Stuck with some problem? Need help in solution development, guidance, training or capacity building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience in a diverse range of technologies and domains. Let me know what problem you are facing at <b>snapdk2@gmail.com</b> and we can schedule a consultation meeting to help you get through it.
-
 ## 👨‍💻 Technical Skills & Expertise
 
 - Development of Web Applications, Mobile Applications, and Desktop Applications
@@ -90,17 +86,11 @@ Stuck with some problem? Need help in solution development, guidance, training o
 - Web Scraping, Browser Automation, Python Scripting
 <hr>
 
-## Contributions Welcome
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
 
-If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
 
 ## Issues
 [![GitHub Issues](https://img.shields.io/github/issues/harismuneer/Restaurant-Management-System.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/harismuneer/Restaurant-Management-System/issues)
 
 If you face any issue, you can create a new issue in the Issues Tab and I will be glad to help you out.
 
-## License
-[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
-
-Copyright (c) 2018-present, harismuneer, rmsharks4, Hassaan-Elahi, mahnoorkashif, shafaq15, marriamsajid, Software Engineering class of Spring 2018                                                        
+                                                       
